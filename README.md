@@ -2,6 +2,9 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+##Database
+Before running the project create the database wich is in the folder database and update the connection inside DB
+
 ## Setup
 
 Make sure to install the dependencies:
