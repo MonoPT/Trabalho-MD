@@ -1,0 +1,1073 @@
+[
+    {
+        "name": "Vanilla, coriander & kokum butter soap",
+        "material": "Vegan soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nMoisturising\nPalm oil & paraben free\nWarm, intense and a little bit sweet\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VGSP_KBC_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VGSP_KBC_02-680x918.jpg"
+    },
+    {
+        "name": "Vetiver & black clay soap",
+        "material": "Vegetable soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nRejuvenating\nPalm oil & paraben free\nWoody earthiness with a hint of musk\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VLSP_VE_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VLSP_VE_02-680x918.jpg"
+    },
+    {
+        "name": "Wild fig & basil shampoo bar",
+        "material": "Regular & dry hair\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Shampoo bars"
+        ],
+        "descp": "\n\t\t\tHandmade solid shampoo\nIdeal for regular & dry hair\nFresh scent with fruity and sweet notes\nAn eco-friendly alternative to single-use plastic bottled shampoo\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-wild-fig-and-basil-04-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-wild-fig-and-basil-03-680x918.jpg"
+    },
+    {
+        "name": "Oak, gum rockrose & red wine soap",
+        "material": "Vegan soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nMoisturising\nPalm oil & paraben free\nWarm, intense and a little bit sweet\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/12/VGSP_ECV_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/12/VGSP_ECV_03-680x918.jpg"
+    },
+    {
+        "name": "Pomegranate & ghassoul clay shampoo bar",
+        "material": "Combination hair\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Shampoo bars"
+        ],
+        "descp": "\n\t\t\tHandmade solid shampoo\nPerfect for combination hair\nFruity notes radiating a sweet scent\nAn eco-friendly alternative to single-use plastic bottled shampoo\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-pomegranate-and-ghassoul-clay-04-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-pomegranate-and-ghassoul-clay-01-680x918.jpg"
+    },
+    {
+        "name": "Orange blossom & rosemary shampoo bar",
+        "material": "Sensitive scalp\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Shampoo bars"
+        ],
+        "descp": "\n\t\t\tHandmade solid shampoo\nSoothing for a sensitive scalp\nCitrusy and herbal scent that leaves you smelling fresh.\nAn eco-friendly alternative to single-use plastic bottled shampoo\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-orange-flower-and-rosemary-04-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-orange-flower-and-rosemary-01-680x918.jpg"
+    },
+    {
+        "name": "Jasmine & dead sea mud soap",
+        "material": "Vegetable soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nMoisturising & purifying\nPalm oil & paraben free\nFloral jasmine overtones and a salty mineral base\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2016/11/VLSP_JM_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2016/11/VLSP_JM_02-680x918.jpg"
+    },
+    {
+        "name": "Cypress, tea tree & mint shampoo bar",
+        "material": "Oily hair\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Shampoo bars"
+        ],
+        "descp": "\n\t\t\tHandmade solid shampoo\nFantastic for oily hair\nMinty and refreshing scent, with herbal overtones\nAn eco-friendly alternative to single-use plastic bottled shampoo\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-cypress-tea-tree-and-mint-04-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-cypress-tea-tree-and-mint-03-680x918.jpg"
+    },
+    {
+        "name": "Bamboo & jasmine shampoo bar",
+        "material": "Straight & thin & damage hair\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Shampoo bars"
+        ],
+        "descp": "\n\t\t\tHandmade solid shampoo\nGreat for straight, thin & damaged hair\nRefreshing forest scent with undertones of jasmine\nAn eco-friendly alternative to single-use plastic bottled shampoo\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-bamboo-and-jasmin-04-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/04/wetheknot-solid-shampoo-bar-bamboo-and-jasmin-01-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-blue-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-blue-02.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-black-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-black-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Roll-top backpack",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Backpacks",
+            "Promotions",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tWe designed the Roll-top backpack to let you carry around throughout the day your personal belongings, such as books, groceries, or a tablet. The vegan leather is resistant to water and super easy to clean, making the backpack long-lasting and always looking brand-new.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 72.25,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-roll-top-backpack-dark-blue-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-roll-top-backpack-dark-blue-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Essential circle scarf",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Accessories",
+            "Caps & Scarves",
+            "Promotions"
+        ],
+        "descp": "\n\t\t\tThe Essential circle scarf in organic cotton is the perfect piece to stay warm all-year-round. This fabric makes it super soft to the touch and gentle on your skin.\n\nAlso available in mustard.\t\t",
+        "OriginalPrice": 35,
+        "currentPrice": 28,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-circle-scarf-black-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-organic-cotton-340gsm-black-01-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-dark-blue-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-dark-blue-02.jpg"
+    },
+    {
+        "name": "Pencil case",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pencil cases",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tStore all your small everyday essentials in our Pencil case in vegan leather. Its compact design makes it lightweight and easy to fit in your bag or backpack. Use it over and over again — the vegan leather is resistant.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-blue-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-blue-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-coral-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-coral-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pouch-vegan-leather-honey-01-1.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pouch-vegan-leather-honey-02.jpg"
+    },
+    {
+        "name": "Pencil case",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pencil cases",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tStore all your small everyday essentials in our Pencil case in vegan leather. Its compact design makes it lightweight and easy to fit in your bag or backpack. Use it over and over again — the vegan leather is resistant.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-cherry-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-cherry-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-dark-blue-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-dark-blue-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Daily crew socks",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Daily crew socks"
+        ],
+        "descp": "\n\t\t\tThe foundation of any outfit comes from its details, namely our choice of socks. The brand new daily socks are knitted in Portugal by our local partners in Braga, having a mid-calf length and breathable material so that you can wear these all day, every day. With wetheknot’s logo embroidered on one side and a subtle rib, which makes them the perfect pair for any occasion.\n\nAvailable in 5 different colors.\n\nPair these socks with the Essential t-shirt under an Essential sweatshirt, and with the Drawstring trousers and you're ready to go!\t\t",
+        "OriginalPrice": 12,
+        "currentPrice": 12,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/12/wetheknot-daily-crew-socks-warm-white-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/11/wethenot-daily-crew-socks-warm-white-cotton-04.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-dark-grey-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-dark-grey-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-cherry-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pouch-vegan-leather-cherry-02.jpg"
+    },
+    {
+        "name": "Roll-top backpack",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Backpacks",
+            "Promotions",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tWe designed the Roll-top backpack to let you carry around throughout the day your personal belongings, such as books, groceries, or a tablet. The vegan leather is resistant to water and super easy to clean, making the backpack long-lasting and always looking brand-new.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 72.25,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-roll-top-backpack-black-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/11/wetheknot-roll-top-backpack-black-vegan-leather-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-honey-vegan-leather-01-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-honey-vegan-leather-03-1-680x918.jpg"
+    },
+    {
+        "name": "Rose & sandalwood soap",
+        "material": "Vegan soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nMoisturising\nPalm oil & paraben free\nFloral notes radiating woody scents\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VGSP_RS_01-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/01/VGSP_RS_02-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-dark-grey-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-dark-grey-02.jpg"
+    },
+    {
+        "name": "Pencil case",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pencil cases",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tStore all your small everyday essentials in our Pencil case in vegan leather. Its compact design makes it lightweight and easy to fit in your bag or backpack. Use it over and over again — the vegan leather is resistant.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-black-vegan-leather-01-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-black-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-olive-green-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-olive-green-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Squared minimalist belt",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Belts",
+            "Made-to-order collection",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThis new wider version of the minimalist belt brings functionality and lightness to the max. Its practical closing system, with a new rectangular ring closure, makes it super easy to adjust and fit a larger array of sizes.\n\nThanks to the lightweight material, this belt will hold your trousers without you even noticing while giving you a complete look.\nAs part of the Made-to-order collection, this piece is going to be made for you in our atelier in Lisbon, Portugal, right after your order placement.\t\t",
+        "OriginalPrice": 19,
+        "currentPrice": 19,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-squared-minimalist-belt-black-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-squared-minimalist-belt-black-02-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-coral-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-coral-02.jpg"
+    },
+    {
+        "name": "Pencil case",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pencil cases",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tStore all your small everyday essentials in our Pencil case in vegan leather. Its compact design makes it lightweight and easy to fit in your bag or backpack. Use it over and over again — the vegan leather is resistant.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-olive-green-vegan-leather-_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-olive-green-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Daily crew socks",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Daily crew socks"
+        ],
+        "descp": "\n\t\t\tThe foundation of any outfit comes from its details, namely our choice of socks. The brand new daily socks are knitted in Portugal by our local partners in Braga, having a mid-calf length and breathable material so that you can wear these all day, every day. With wetheknot’s logo embroidered on one side and a subtle rib, which makes them the perfect pair for any occasion.\n\nAvailable in 5 different colors.\n\nPair these socks with the Essential t-shirt under an Essential sweatshirt, and with the Drawstring trousers and you're ready to go!\t\t",
+        "OriginalPrice": 12,
+        "currentPrice": 12,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/12/wetheknot-daily-crew-socks-navy-blue-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/11/wethenot-daily-crew-socks-navy-blue-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Everyday cap",
+        "material": "Sun and fade resistant\n        ",
+        "categories": [
+            "Accessories",
+            "Caps",
+            "Caps & Scarves"
+        ],
+        "descp": "\n\t\t\tThe Everyday cap is a six-panel with “Everyday” embroidered at the center. Made with a high-quality technical fabric, which is sun and fade resistant, water repellent and breathable, making it perfect to wear on all your activities – from sports to leisure.\n\nSimilar version available in black.\t\t",
+        "OriginalPrice": 49,
+        "currentPrice": 49,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-everyday-cap-light-grey-sun-fade-resistant-02-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-everyday-cap-light-grey-sun-fade-resistant-03-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-blue-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-blue-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-black-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-black-02-1.jpg"
+    },
+    {
+        "name": "Pencil case",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pencil cases",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tStore all your small everyday essentials in our Pencil case in vegan leather. Its compact design makes it lightweight and easy to fit in your bag or backpack. Use it over and over again — the vegan leather is resistant.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 15,
+        "currentPrice": 15,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-dark-blue-vegan-leather-01-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-pencil-case-dark-blue-vegan-leather-02-680x918.jpg"
+    },
+    {
+        "name": "Essential circle scarf",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Accessories",
+            "Caps & Scarves",
+            "Promotions"
+        ],
+        "descp": "\n\t\t\tThe Essential circle scarf in organic cotton is the perfect piece to stay warm all-year-round. This fabric makes it super soft to the touch and gentle on your skin.\n\nAlso available in mustard and black.\t\t",
+        "OriginalPrice": 35,
+        "currentPrice": 28,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-essential-circle-scarf-green-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-essential-circle-scarf-green-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Daily crew socks",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Daily crew socks"
+        ],
+        "descp": "\n\t\t\tThe foundation of any outfit comes from its details, namely our choice of socks. The brand new daily socks are knitted in Portugal by our local partners in Braga, having a mid-calf length and breathable material so that you can wear these all day, every day. With wetheknot’s logo embroidered on one side and a subtle rib, which makes them the perfect pair for any occasion.\n\nAvailable in 5 different colors.\n\nPair these socks with the Essential t-shirt under an Essential sweatshirt, and with the Drawstring trousers and you're ready to go!\t\t",
+        "OriginalPrice": 12,
+        "currentPrice": 12,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/12/wetheknot-daily-crew-socks-black-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/11/wethenot-daily-crew-socks-black-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Card holder",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Card holders",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tThe Card holder is an everyday use accessory that you can carry with you at all times — be creative and use it as you want.\nThis vegan leather piece is available in 8 different colors.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 18,
+        "currentPrice": 18,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-cherry-vegan-leather-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-essential-card-holder-cherry-vegan-leather-03-680x918.jpg"
+    },
+    {
+        "name": "Everywhere cap",
+        "material": "Sun and fade resistant\n        ",
+        "categories": [
+            "Accessories",
+            "Caps",
+            "Caps & Scarves"
+        ],
+        "descp": "\n\t\t\tThe Everywhere cap is a six-panel with “Everywhere” embroidered at the center. Made with a high-quality technical fabric, which is sun and fade resistant, water repellent and breathable, making it perfect to wear on all your activities – from sports to leisure.\nSimilar version available in light grey.\t\t",
+        "OriginalPrice": 49,
+        "currentPrice": 49,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-everywhere-cap-black-sun-fade-resistant-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-everywhere-cap-black-sun-fade-resistant-04-680x918.jpg"
+    },
+    {
+        "name": "Piqué t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tOur Piqué t-shirt has a soft texture and a brushed finishing that make it comfortable and easy to be worn all day long. It is made in Portugal with organic cotton, which enhances its durability and allows for a more sustainable t-shirt.\n\nAlso available in blue melange and black melange.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 55,
+        "currentPrice": 55,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-green-melange-organic-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-green-melange-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Drawstring shorts",
+        "material": "",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThe Drawstring shorts have an elastic waistband with adjustable cords.\nFeatures two back pockets and their leg length was thoughtfully designed for a perfect regular fit. Made in Portugal, with a heavyweight cotton denim for enhanced durability.\t\t",
+        "OriginalPrice": 75,
+        "currentPrice": 56.25,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-drawstring-shorts-dark-denim-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-drawstring-shorts-dark-denim-cotton-04-680x918.jpg"
+    },
+    {
+        "name": "Drawstring trousers",
+        "material": "",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThe Drawstring trousers have an elastic waistband with adjustable cords. Inspired by workwear, these trousers have a relaxed comfortable fit. Made in Portugal, with a crisp mid-weight cotton canvas for enhanced durability.\n\nPair them with the Essential t-shirt in warm white or the Essential sweatshirt in black.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 72.25,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-drawstring-trousers-beige-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-harrington-jacket-black-lightweight-01-680x918.jpg"
+    },
+    {
+        "name": "Deconstructed sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tThe Deconstructed sweatshirt has a relaxed fit that flows over the body. The brushed organic cotton makes it comfortable and soft to the touch. This distinctive piece features minimal details like a deconstructed neck and low shoulders.\n\nWear it on its own or over one Essential t-shirt.\nAlso available in mustard.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 89,
+        "currentPrice": 89,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-deconstructed-sweatshirt-black-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-deconstructed-sweatshirt-black-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Essential sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tMade of 100% organic cotton, the Essential sweatshirt in warm white can easily match any jeans or trousers. With maximum softness both on the inside and out, this sweatshirt can be worn all year long.\n\nTry pairing it with our Drawstring trousers in dark denim.\nAlso available in black.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 79,
+        "currentPrice": 79,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-sweatshirt-warm-white-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-sweatshirt-warm-white-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Essential t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tThe minimalism of the Essential t-shirt makes it a suitable option for everyday wear. It is made in Portugal with organic cotton, which enhances its durability and allows for a more sustainable t-shirt.\n\nTo wear this t-shirt throughout the whole year, pair it with outerwear like our Denim jacket.\nAlso available in warm white.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 45,
+        "currentPrice": 45,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-t-shirt-black-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-t-shirt-black-organic-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Piqué sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tThe Piqué sweatshirt is an essential piece for a simple and casual look. The raglan long sleeves make it perfect both for a chill walk downtown and for a morning yoga session at the park. Comfortable and sustainable at the same time — our organic cotton is an environment-friendly choice.\n\nTry pairing it with our Drawstring trousers in beige.\nAlso available in black melange.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 68,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-sweatshirt-blue-melange-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-organic-cotton-280gsm-blue-melange-01-680x918.jpg"
+    },
+    {
+        "name": "Drawstring trousers",
+        "material": "",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThe Drawstring trousers have an elastic waistband with adjustable cords. They fit loose through the hips and thighs with a slight taper towards the ankle. Made in Portugal, with a midweight cotton fabric for enhanced durability.\n\nWear them with the Essential t-shirt in black or the Piqué long sleeve in black melange.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 72.25,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-drawstring-trousers-green-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-drawstring-trousers-green-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Essential sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tMade of 100% organic cotton, the Essential sweatshirt comes in a shade of black that will match any jeans or trousers. With maximum softness both on the inside and out, this sweatshirt can be worn all year long.\nAlso available in warm white.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 79,
+        "currentPrice": 79,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/11/wetheknot-essential-sweatshirt-black-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/11/wetheknot-essential-sweatshirt-black-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Piqué long sleeve",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "T-shirts & Long sleeves"
+        ],
+        "descp": "\n\t\t\tThe Piqué long sleeve is a comfortable all-season essential. It is made in Portugal with 100% brushed organic cotton, soft to the touch and more sustainable for the environment.\n\nTo wear it all year round, pair it with one of our outerwear pieces, like the Denim jacket in warm white.\nAlso available in green melange.\t\t",
+        "OriginalPrice": 65,
+        "currentPrice": 52,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-long-sleeve-black-melange-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-long-sleeve-black-melange-organic-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Piqué t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tOur Piqué t-shirt has a soft texture and a brushed finishing that make it comfortable and easy to be worn all day long. It is made in Portugal with organic cotton, which enhances its durability and allows for a more sustainable t-shirt.\n\nAlso available in green melange and black melange.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 55,
+        "currentPrice": 55,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-blue-melange-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-blue-melange-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Deconstructed sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tThe Deconstructed sweatshirt has a relaxed fit that flows over the body. The brushed organic cotton makes it comfortable and soft to the touch. This distinctive piece features minimal details like a deconstructed neck and low shoulders.\n\nWear it on its own or over one Essential t-shirt.\nAlso available in black.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 89,
+        "currentPrice": 89,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-deconstructed-sweatshirt-mustard-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-deconstructed-sweatshirt-mustard-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Essential t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tThe minimalism of the Essential t-shirt makes it a suitable option for everyday wear. It is made in Portugal with organic cotton, which enhances its durability and allows for a more sustainable t-shirt.\n\nTo wear this t-shirt throughout the whole year, pair it with outerwear like our Denim jacket.\nAlso available in black.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 45,
+        "currentPrice": 45,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-t-shirt-warm-white-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-essential-t-shirt-warm-white-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Piqué t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tOur Piqué t-shirt has a soft texture and a brushed finishing that make it comfortable and easy to be worn all day long. It is made in Portugal with organic cotton, which enhances its durability and allows for a more sustainable t-shirt.\n\nAlso available in blue melange and green melange.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 45,
+        "currentPrice": 46.75,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-black-melange-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-t-shirt-black-melange-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Recycled weekender tote bag",
+        "material": "Recycled marine plastic\n        ",
+        "categories": [
+            "Accessories",
+            "Bags",
+            "Made-to-order collection"
+        ],
+        "descp": "\n\t\t\tThe Recycled weekender tote bag is the ultimate long-lasting staple for everyday use and traveling. Made from recycled marine plastic, this weekender tote bag was tailored to be extra durable and to keep all your gear safe.\n\nIt has space for all of life’s essentials and can be carried on your shoulder thanks to its wide straps.\n\nZippered main compartment with an inside and outside pocket perfect to keep your belongings at hand. This bag also features a functional side strap for warmer days when you just want to take your jacket off and not carry it around by hand.\t\t",
+        "OriginalPrice": 69,
+        "currentPrice": 69,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-recycled-weekender-tote-bag-black-recycled-marine-plastic-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-recycled-weekender-tote-bag-black-recycled-marine-plastic-02-680x918.jpg"
+    },
+    {
+        "name": "Piqué track pants",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Activewear & loungewear",
+            "Clothing",
+            "Made-to-order collection",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThese track pants are the perfect piece to wear on days you want to feel both comfortable and composed. Elastic waistband trousers with an interior drawstring and side pockets, cut for a relaxed straight fit that will help you keep this effortless look.\n\nMaintaining the comfort of a regular pair of track pants while making them more versatile and elegant.\t\t",
+        "OriginalPrice": 89,
+        "currentPrice": 89,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-pique-track-pants-black-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-pique-track-pants-black-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Relaxed long sleeve",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Activewear & loungewear",
+            "Clothing",
+            "Made-to-order collection",
+            "Sweatshirts & Hoodies",
+            "T-shirts & Long sleeves"
+        ],
+        "descp": "\n\t\t\tThe relaxed long sleeve shirt is one of the most functional pieces of this collection. The perfect piece for every occasion since it can either be worn to elevate your outfit of the day or as a pyjama top. This long sleeve sweater takes comfort to the next level given its loose fit and outer tag.\n\nMatch it with our Relaxed jersey pants for the colder months or with the Relaxed shorts for the warmer months. Also available in blue.\n\nAs part of the Made-to-order collection, this piece is going to be made for you in our atelier in Lisbon, Portugal, right after your order placement.\t\t",
+        "OriginalPrice": 59,
+        "currentPrice": 59,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-relaxed-jersey-long-sleeve-brown-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-relaxed-jersey-long-sleeve-brown-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Drawstring trousers",
+        "material": "",
+        "categories": [
+            "Clothing",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tThe Drawstring trousers have an elastic waistband with adjustable cords. They fit loose through the hips and thighs with a slight taper towards the ankle. Made in Portugal, with a midweight cotton fabric for enhanced durability.\n\nPair them with the Essential sweatshirt or the Everyday t-shirt in warm white.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 85,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-drawstring-trousers-black-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-drawstring-trousers-black-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Everywhere t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tThe Everywhere t-shirt is designed to be comfortable and easy to match with any outfit. The organic cotton fabric is brushed and this gives a soft feel to the touch — plus, it is a more sustainable material.\n\nPair this t-shirt with one of our headwear pieces, like the Everyday cap.\nSimilar version available in white.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 45,
+        "currentPrice": 40.5,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-everywhere-t-shirt-black-organic-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-everywhere-t-shirt-black-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Everyday t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves",
+            "T-shirts kit"
+        ],
+        "descp": "\n\t\t\tThe Everyday t-shirt is designed to be comfortable and easy to match with any outfit. The organic cotton fabric is brushed and this gives a soft feel to the touch — plus, it is a more sustainable material.\n\nPair this t-shirt with one of our headwear pieces, like the Everywhere cap.\nSimilar version available in black.\nBuy the T-shirts kit and get 20% off.\nAdd 3 T-shirts to your cart and type TSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 45,
+        "currentPrice": 45,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-everyday-t-shirt-warm-white-organic-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-everyday-t-shirt-warm-white-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Stripes t-shirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves"
+        ],
+        "descp": "\n\t\t\tThe Stripes t-shirt is a model you can pair with anything, but with an extra twist: a striped pattern. Featuring a ribbed collar in warm white and short sleeves, this t-shirt is made in wetheknot’s classic fabric: organic cotton.\n\nPair it with our Cupro bomber jacket for chilly Spring nights.\t\t",
+        "OriginalPrice": 49,
+        "currentPrice": 49,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-stripes-tshirt-beige-organic-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-stripes-tshirt-beige-organic-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Piqué sweatshirt",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "Sweatshirts & Hoodies",
+            "Sweatshirts kit"
+        ],
+        "descp": "\n\t\t\tThe Piqué sweatshirt is an essential piece for a simple and casual look. The raglan long sleeves make it perfect both for a chill walk downtown and for a morning yoga session at the park. Comfortable and sustainable at the same time — our organic cotton is an environment-friendly choice.\n\nTry pairing it with our Drawstring trousers in black.\nAlso available in blue melange.\nBuy the Sweatshirts kit and get 20% off.\nAdd 2 Sweatshirts to your cart and type SWEATSHIRTS-KIT in the coupon field at checkout.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 85,
+        "currentPrice": 68,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-sweatshirt-black-melange-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-sweatshirt-black-melange-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Five-panel cap",
+        "material": "Sun and fade resistant\n        ",
+        "categories": [
+            "Accessories",
+            "Caps",
+            "Caps & Scarves",
+            "Promotions"
+        ],
+        "descp": "\n\t\t\tDesigned as a more relaxed option to the six-panel, the five-panel cap is a modern and minimalist take on headwear. Our caps are made with a high-quality technical fabric, which is sun and fade resistant, water repellent and breathable, making it perfect to wear on all your activities – from sports to leisure.\nCheck also the other caps.\t\t",
+        "OriginalPrice": 59,
+        "currentPrice": 41.3,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-five-panel-cap-green-melange-sun-fade-resistant-02-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-five-panel-cap-green-melange-sun-fade-resistant-03-680x918.jpg"
+    },
+    {
+        "name": "Denim jacket",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Jackets"
+        ],
+        "descp": "\n\t\t\tThe warm white Denim jacket is born from the convergence of two different pieces: the blazer and the jacket.\nInspired by utilitarian workwear, it can take you from chilly summer nights to cold winter days.\t\t",
+        "OriginalPrice": 179,
+        "currentPrice": 179,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-denim-jacket-warm-white-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/03/wetheknot-denim-jacket-warm-white-organic-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Piqué long sleeve",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "Promotions",
+            "T-shirts & Long sleeves"
+        ],
+        "descp": "\n\t\t\tThe Piqué long sleeve is a comfortable all-season essential. It is made in Portugal with 100% brushed organic cotton, soft to the touch and more sustainable for the environment.\n\nTo wear it all year round, pair it with one of our outerwear pieces, like the Denim jacket.\nAlso available in black melange.\t\t",
+        "OriginalPrice": 65,
+        "currentPrice": 52,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-long-sleeve-green-melange-organic-cotton-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-pique-long-sleeve-green-melange-organic-cotton-03-680x918.jpg"
+    },
+    {
+        "name": "Denim tote bag",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Bags",
+            "Made-to-order collection"
+        ],
+        "descp": "\n\t\t\tMade in a strong denim cotton canvas, the new tote bag is even more functional. The inside pocket keeps your small belongings safe and the narrow straps adapt to your shoulder. Its minimal design, featuring a black press-stud button and white seams, can easily match any look.\nAs part of the Made-to-order collection, this piece is going to be made for you in our atelier in Lisbon, Portugal, right after your order placement.\t\t",
+        "OriginalPrice": 39,
+        "currentPrice": 39,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-denim-tote-bag-dark-denim-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-denim-tote-bag-dark-denim-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Cupro bomber jacket",
+        "material": "Vegan silk\n        ",
+        "categories": [
+            "Clothing",
+            "Jackets"
+        ],
+        "descp": "\n\t\t\tYou can wear the Cupro bomber jacket for a chill walk downtown or to go out to drink at night. The light-weight vegan silk is fresh and easy to care. Its relaxed fit allows you to look both casual — if styled with our Everyday t-shirt — or more formal — if paired with the Flannel shirt.\t\t",
+        "OriginalPrice": 169,
+        "currentPrice": 169,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-cupro-bomber-jacket-black-vegan-silk-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-cupro-bomber-jacket-black-vegan-silk-03-680x918.jpg"
+    },
+    {
+        "name": "Pouch",
+        "material": "Vegan leather\n        ",
+        "categories": [
+            "Accessories",
+            "Pouches",
+            "Vegan leather kit"
+        ],
+        "descp": "\n\t\t\tYour everyday & travel organiser.\nThis Pouch in vegan leather is made to be used on a daily basis and to keep everything tidy inside your bag or in your pocket. It is the perfect travel organizer — designed to fit your passport as well. The water-resistant material is easy to care and makes the pouch stand regular everyday use.\nBuy the Vegan leather kit and get 1 free Pouch.\nAdd 1 card holder, 1 pencil case, 1 roll-top backpack and 1 pouch to your cart and type VEGAN-LEATHER-KIT in the coupon field on the Cart page.\nThis coupon cannot be used on sale items or with other coupons.\t\t",
+        "OriginalPrice": 29,
+        "currentPrice": 29,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-olive-green-01.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2022/06/wetheknot-pouch-vegan-leather-olive-green-02.jpg"
+    },
+    {
+        "name": "Piqué harrington jacket",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Activewear & loungewear",
+            "Clothing",
+            "Jackets",
+            "Made-to-order collection"
+        ],
+        "descp": "\n\t\t\tOur new outerwear piece is a reinterpretation of a sporty Harrington jacket. Its premium fabric gives it a twist to a more composed and solid look, perfect to wear either outside or at the comfort of your home. Regular fit that englobes in one jacket a comfortable and structured demeanor thanks to the pointed collar.\n\nDesigned to make it easy to style with our Essential t-shirt for warmer days, and our Graphic piqué long sleeve for colder ones.\t\t",
+        "OriginalPrice": 99,
+        "currentPrice": 99,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-pique-harrington-jacket-black-organic-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-pique-harrington-jacket-black-organic-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Minimalist belt",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Belts",
+            "Made-to-order collection",
+            "Trousers & Shorts"
+        ],
+        "descp": "\n\t\t\tWe designed the Minimalist belt having in mind functionality and lightness. Its practical closing system makes it super easy to adjust and fit any size. Thanks to the lightweight material, this belt will hold your trousers without you even noticing.\nAs part of the Made-to-order collection, this piece is going to be made for you in our atelier in Lisbon, Portugal, right after your order placement.\t\t",
+        "OriginalPrice": 17,
+        "currentPrice": 17,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-minimal-belt-black-01-1-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-minimal-belt-black-04-680x918.jpg"
+    },
+    {
+        "name": "Minimal home slippers",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Accessories",
+            "Activewear & loungewear",
+            "Promotions"
+        ],
+        "descp": "\n\t\t\tWe are happy to introduce you to our brand new home slippers, one of the most essential footwear items. With an easy slip-on design and a durable and slip-resistant outsole made from recycled leather.\n\nUsing excess cotton fabric from previous collections, we are able to decrease waste while guaranteeing breathability and high-quality material. Relaxed fit that comes in 3 different sizes according to your preference.\n\nOur slippers run true to size and are designed for maximum comfort. To ensure a good fit, we recommend ordering the size you normally wear, bearing in mind the type of socks you plan to wear with them. If you are usually in between sizes, consider sizing up to one size.\t\t",
+        "OriginalPrice": 35,
+        "currentPrice": 28,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-minimal-home-slippers-black-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/03/wetheknot-minimal-home-slippers-black-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Graphic piqué long sleeve",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Clothing",
+            "T-shirts & Long sleeves"
+        ],
+        "descp": "\n\t\t\tWe are obsessed with minimal details and clean design. Our organic cotton long sleeve gets a bold graphic look in this updated piqué model. Same quality, same sustainable fiber, new timeless aesthetic.\n\nAs part of the Made-to-order collection, this piece is going to be made for you in our atelier in Lisbon, Portugal, right after your order placement.\t\t",
+        "OriginalPrice": 65,
+        "currentPrice": 65,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-graphic-pique-long-sleeve-green-melange-organic-cotton-03-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-graphic-pique-long-sleeve-green-melange-organic-cotton-01-680x918.jpg"
+    },
+    {
+        "name": "Daily crew socks",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Daily crew socks"
+        ],
+        "descp": "\n\t\t\tThe foundation of any outfit comes from its details, namely our choice of socks. The brand new daily socks are knitted in Portugal by our local partners in Braga, having a mid-calf length and breathable material so that you can wear these all day, every day. With wetheknot’s logo embroidered on one side and a subtle rib, which makes them the perfect pair for any occasion.\n\nAvailable in 5 different colors.\n\nPair these socks with the Essential t-shirt under an Essential sweatshirt, and with the Drawstring trousers and you're ready to go!\t\t",
+        "OriginalPrice": 12,
+        "currentPrice": 12,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/12/wetheknot-daily-crew-socks-mustard-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/11/wethenot-daily-crew-socks-mustard-cotton-02-680x918.jpg"
+    },
+    {
+        "name": "Eucalyptus, cedar & junipers soap",
+        "material": "Vegetable soap\n        ",
+        "categories": [
+            "Bath & Shower",
+            "Handmade soaps"
+        ],
+        "descp": "\n\t\t\tHandmade soap\nMoisturising\nPalm oil & paraben free\nUplifting pine scent with undertones of mint and honey\n\nProduced in Mafra, Portugal, by Teresa and Mário\t\t",
+        "OriginalPrice": 10,
+        "currentPrice": 10,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2016/11/VLSP_ECZ_01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2016/11/VLSP_ECZ_03-680x918.jpg"
+    },
+    {
+        "name": "Harrington jacket",
+        "material": "",
+        "categories": [
+            "Clothing",
+            "Jackets",
+            "Promotions"
+        ],
+        "descp": "\n\t\t\tAll-season Harrington jacket in premium-quality black fabric. Classic shape with a regular fit that suits any different occasion, from daily routine meetings to nights out with friends. The jacket is water repellent and has a soft, velvety feel.\n\nTry pairing it with our Drawstring trousers in beige.\t\t",
+        "OriginalPrice": 179,
+        "currentPrice": 143.2,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-harrington-jacket-black-lightweight-02-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2019/09/wetheknot-harrington-jacket-black-lightweight-03-680x918.jpg"
+    },
+    {
+        "name": "Piqué beanie hat",
+        "material": "Organic cotton\n        ",
+        "categories": [
+            "Accessories",
+            "Caps",
+            "Caps & Scarves",
+            "Made-to-order collection"
+        ],
+        "descp": "\n\t\t\tOur new headwear piece is a reinterpretation of the classic beanie hat. Its compact size gives a round and fitted shape. Perfect for the colder days and made in wetheknot signature fabric, organic cotton. Pair it with the Essential circle scarf in black.\t\t",
+        "OriginalPrice": 35,
+        "currentPrice": 35,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-pique-beanie-hat-organic-cotton-black-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2020/10/wetheknot-pique-beanie-hat-organic-cotton-black-02-680x918.jpg"
+    },
+    {
+        "name": "Daily crew socks",
+        "material": "",
+        "categories": [
+            "Accessories",
+            "Daily crew socks"
+        ],
+        "descp": "\n\t\t\tThe foundation of any outfit comes from its details, namely our choice of socks. The brand new daily socks are knitted in Portugal by our local partners in Braga, having a mid-calf length and breathable material so that you can wear these all day, every day. With wetheknot’s logo embroidered on one side and a subtle rib, which makes them the perfect pair for any occasion.\n\nAvailable in 5 different colors.\n\nPair these socks with the Essential t-shirt under an Essential sweatshirt, and with the Drawstring trousers and you're ready to go!\t\t",
+        "OriginalPrice": 12,
+        "currentPrice": 12,
+        "firsImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/12/wetheknot-daily-crew-socks-olive-green-cotton-01-680x918.jpg",
+        "secondImg": "https://wetheknot-17baf.kxcdn.com/wp-content/uploads/2021/11/wethenot-daily-crew-socks-olive-green-cotton-03-680x918.jpg"
+    }
+]

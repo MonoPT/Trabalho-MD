@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.6",
+    "sass": "^1.54.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.3.1",
+    "@types/pg": "^8.6.5",
+    "pg": "^8.7.3"
+  }
+}
