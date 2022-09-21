@@ -1,7 +1,7 @@
 <template>
     <div id="product-wrapper" :class="`${screenHandler.isMobile ? 'isMobile' : ''}`" v-if="item">
         <div class="image">
-            <div class="image-wrapper" ref="aspectRatioContainer" :style="`--ratio: ${ratio}`">
+            <div class="image-wrapper" ref="aspectRatioContainer" :style="`--ratio: ${ratio}`" v-if="!imageError">
                 <div class="image-controls">
                     <div class="btn-change-pic next" @click="changeToImage(1, true)"></div>
                     <div class="btn-change-pic prev" @click="changeToImage(-1, true)"></div>
@@ -10,8 +10,12 @@
                         <div :class="`pic-dot ${currentImage === 1 ? 'active' : ''}`" @click="changeToImage(1)"></div>
                     </div>
                 </div>
-                <img :src="item.firstimg" alt="" :class="`${currentImage === 0 ? 'active' : ''}`" />
+                <img :src="item.firstimg" alt="" :class="`${currentImage === 0 ? 'active' : ''}`" @error="imageFailedToLoad" />
                 <img :src="item.secondimg" alt="" :class="`${currentImage === 1 ? 'active' : ''}`" />
+            </div>
+            <div class="image-wrapper error" id="eror-icon" :style="`--ratio: ${ratio}`" v-else>
+                <div class="icon"></div>
+                couldn't load image
             </div>
         </div>
 
@@ -29,9 +33,10 @@
                 <div class="new">{{item.currentprice.toFixed(2).replace('.', ',')}} €</div>
             </div>
             <div class="description">
-                <p v-for="p in descp">{{p}}</p>
+                <p v-for="p in descp">{{p !== 'undefined.' ? p : ''}}</p>
             </div>
-            <div class="size-selector">
+
+            <div class="size-selector" v-if="item.categories.includes('Clothing')">
                 <div class="text">
                     <h4>Choose a size</h4><div class="size-guide">?
                         <div class="size-guide-pop">
@@ -83,7 +88,7 @@
         'T-shirts kit',
         'Vegan leather kit',
         'Caps',
-        'Activewear & loungewear'
+        'Activewear & loungewear',
     ]
 
     //Get route and item info
@@ -104,6 +109,7 @@
         productName = productName.replaceAll('t shirt', 't-shirt');
         productName = productName.replaceAll('T shirt', 'T-shirt');
         productName = productName.replaceAll('Five panel', 'Five-panel');
+        productName = productName.replaceAll('Roll top', 'Roll-top')
         itemName.value = productName;
 
         if(mainStore.productDataIsLoaded) getItem()
@@ -164,6 +170,11 @@
 
             currentImage.value = nextIndex
         }
+    }
+
+    const imageError = ref(false)
+    const imageFailedToLoad = () => {
+        imageError.value = true;
     }
     
 </script>
@@ -291,6 +302,35 @@
                             &:not(.active):hover {
                                 background: rgba(255, 255, 255, 0.9);
                             }
+                        }
+                    }
+                }
+
+                &.error {
+                    display: flex;
+                    flex-direction: column;
+                    width: 100%;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 22px;
+                    color: rgb(250, 76, 76);
+                    
+                    .icon {
+                        border: 12px solid rgb(250, 76, 76);
+                        width: 50%;
+                        aspect-ratio: 1 / 1;
+                        border-radius: 100%;
+                        margin-bottom: 28px;
+
+                        &::before {
+                            content: '';
+                            display: block;
+                            width: 105%;
+                            height: 12px;
+                            background: rgb(250, 76, 76);
+                            transform-origin: center;
+                            margin-top: calc(50% - 6px);
+                            transform: rotate(60deg);
                         }
                     }
                 }
@@ -511,7 +551,6 @@
 
             }
         }
-
-
     }
+
 </style>

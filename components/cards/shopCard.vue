@@ -2,8 +2,13 @@
     <div class="card" :style="`--cardH: ${cardH}px`" ref="cardCont">
         <nuxt-link :to="`/product/${name.replaceAll('-&-', '-e-').replaceAll(' ', '-')}-${id}`">
             <div class="image-wrapper" :class="`${imagesAreLoaded ? 'imagesLoaded' : ''}`">
-                <img ref="firstImage" alt="">
-                <img ref="secondImage" alt="" class="hoverImg">
+                <template v-if="!imgLoadError">
+                    <img ref="firstImage" alt="">
+                    <img ref="secondImage" alt="" class="hoverImg">
+                </template>
+                <div class="imageErrorContainer" v-else>
+                    Couldn't load image
+                </div>
             </div>
             <div class="promotion" v-if="promotionPercentage > 0">- {{promotionPercentage}}%</div>
             <div class="productInfo">
@@ -89,6 +94,7 @@
 
     const firstImage = ref(null)
     const secondImage = ref(null)
+    const imgLoadError = ref(false)
 
     const loadImagesAsync = (entries, observer) => {
         if(entries[0].isIntersecting) {
@@ -98,6 +104,11 @@
                 firstImage.value.src = evento.src;   
                 imagesAreLoaded.value = true;
             };
+
+            downloadingImageOne.onerror = () => {
+                imgLoadError.value = true;
+                imagesAreLoaded.value = true;
+            }
             
             let downloadingImageTwo = new Image();
             downloadingImageTwo.onload = function(){
@@ -198,6 +209,19 @@
                         background-position: 0% 50%;
                     }
                 }
+            }
+
+            .imageErrorContainer {
+                display: flex;
+                width: 100%;
+                height: 100%;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                padding: 15px;
+                font-size: 21px;
+                color: rgb(254, 55, 55);
+                background: rgb(225, 225, 225);
             }
         }
 
