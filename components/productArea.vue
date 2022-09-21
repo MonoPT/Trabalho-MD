@@ -1,9 +1,9 @@
 <template>
     <div class="wraper">
-        <cards-index-product-card img="/assets/products/soap.jpg" :transform="{x: 0, y: -15}" zoom="1.7" link="shop/Shampoo-bars" category="Shampoo bars" :hasArrow="true"/>
-        <cards-index-product-card img="/assets/products/tshirt.jpg" link="shop/T-shirts-e-Long-sleeves" category="T-shirts & Long Sleeves" :hasArrow="true"/>
-        <cards-index-product-card img="/assets/products/socks.jpg" :transform="{x: 0, y: -4}" zoom="1.3" link="shop/Card-holders" category="Socks" :hasArrow="true"/>
-        <cards-index-product-card img="/assets/products/cap.jpg" zoom="1.35" :transform="{x: 0, y: -10}" link="shop/Caps-e-Scarves" category="Headwear" :hasArrow="true"/>
+        <cards-index-product-card img="https://i.ibb.co/DR28g7g/soap.jpg" :transform="{x: 0, y: -15}" zoom="1.7" link="shop/Shampoo-bars" category="Shampoo bars" :hasArrow="true"/>
+        <cards-index-product-card img="https://i.ibb.co/jrwpH8D/tshirt.jpg" link="shop/T-shirts-e-Long-sleeves" category="T-shirts & Long Sleeves" :hasArrow="true"/>
+        <cards-index-product-card img="https://i.ibb.co/2NwcsyR/socks.jpg" :transform="{x: 0, y: -4}" zoom="1.3" link="shop/Card-holders" category="Socks" :hasArrow="true"/>
+        <cards-index-product-card img="https://i.ibb.co/Gtk2Wck/cap.jpg" zoom="1.35" :transform="{x: 0, y: -10}" link="shop/Caps-e-Scarves" category="Headwear" :hasArrow="true"/>
     </div>
 </template>
 
