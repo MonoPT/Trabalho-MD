@@ -33,6 +33,17 @@
             position: relative;
             z-index: 1;
 
+            &::before {
+                content: '';
+                display: block;
+                position: absolute;
+                bottom: 0;
+                width: 150%;
+                height: 60%;
+                background: var(--thirdColor);
+                transform: rotate(-35deg);
+            }
+
             img {
                 width: 85%;
                 height: auto;

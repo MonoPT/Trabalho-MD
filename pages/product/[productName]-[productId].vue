@@ -112,6 +112,10 @@
         productName = productName.replaceAll('Roll top', 'Roll-top')
         itemName.value = productName;
 
+        useHead({
+            title: `Wetheknot | ${productName}`
+        })
+
         if(mainStore.productDataIsLoaded) getItem()
     })
 

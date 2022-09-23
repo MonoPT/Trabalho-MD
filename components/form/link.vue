@@ -38,6 +38,10 @@
         hoverColor.value = LightenDarkenColorRGB(currentColor, {
             amt: -30
         })
+
+        if(hoverColor.value === 'rgb(NaN,NaN,NaN)') {
+            hoverColor.value = underlineColor.value = 'rgb(225,225,225)';
+        }
     })
 
     function LightenDarkenColorRGB(currentColor,{ amt= 0, rgb = {r:0,g:0,b:0}}) {

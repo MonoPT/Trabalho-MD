@@ -1,8 +1,10 @@
 <template>
-    <div class="card">
-        <img :src="img" alt="" :style="`--transformX: ${transform.x}; --transformY: ${transform.y}; --zoom: ${zoom}`">
-        <formLink :text="category" :linkTo="link" class="linkToCat" :hasArrow="hasArrow"/>
-    </div>
+    <nuxt-link :to="link">
+        <div class="card">
+            <img :src="img" alt="" :style="`--transformX: ${transform.x}; --transformY: ${transform.y}; --zoom: ${zoom}`">
+            <formLink :text="category" :linkTo="link" class="linkToCat" :hasArrow="hasArrow"/>
+        </div>
+    </nuxt-link>
 </template>
 
 <script setup lang="ts">
@@ -51,6 +53,12 @@
         overflow: hidden;
         color: #fff;
         border-radius: 5px;
+
+        &:hover {
+            img {
+                opacity: .7;
+            }    
+        }
         
 
         &::after {
@@ -80,6 +88,7 @@
             width: auto;
             margin: auto;
             transform: translateY(calc(1% * var(--transformY)));
+            transition: .12s;
 
             pointer-events: none;
         }

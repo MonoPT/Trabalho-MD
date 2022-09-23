@@ -30,6 +30,7 @@
         --bgColor: #FFFAFA;
         --primaryColor: #0C749F;
         --secondaryColor: #0F0F0F;
+        --thirdColor: #1988b8c7;
         --pageMargins: 180px; /*Margin in desktop*/ 
 
         //Color hover
