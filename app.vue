@@ -16,8 +16,11 @@
 <script setup lang="ts">
     import { useScreenHandler } from '~~/stores/ScreenHandler'
     import { useMainStore } from '~~/stores/mainStore'
+     
+    /*onMounted(() => {
+        console.log(window.gtag)
+    })*/
     
-
     const storeScreenHandler = useScreenHandler()
     const mainStore = useMainStore()
 
