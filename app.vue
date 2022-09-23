@@ -16,6 +16,14 @@
     import { useScreenHandler } from '~~/stores/ScreenHandler'
     import { useMainStore } from '~~/stores/mainStore'
 
+    onMounted(() => {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-9H9S3KTQ1K');
+    })
+
     const storeScreenHandler = useScreenHandler()
     const mainStore = useMainStore()
 
