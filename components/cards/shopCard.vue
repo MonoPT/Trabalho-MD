@@ -82,6 +82,7 @@
     const imagesAreLoaded = ref(false)
 
     let observer;
+
     onMounted(() => {
         observer = new IntersectionObserver(loadImagesAsync, {
             rootMargin: '0px',
@@ -144,13 +145,42 @@
         } 
         observer.unobserve(cardCont.value);
         if(document.contains(cardCont.value)) observer.observe(cardCont.value);
-
-        /*productNameReplaced.value = props.name
-        productNameReplaced.value = productNameReplaced.value.replaceAll('-&-', '-e-')
-        productNameReplaced.value = productNameReplaced.value.replaceAll(' ', '-')*/
     }
 
+    //Handle animations
+    const hasAnimated = ref(false)
+    const animationDelay = ref(0)
+
+    function callbackFunction(entries){ // array of observing elements
+        entries.forEach(entry=>{
+            if(entry.isIntersecting) {
+                entry.target.classList.add('animate');
+
+                //AniamtionObserver.unobserve(entry.target);
+            }
+        })
+    }
+
+    let options= {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.3
+    };
+
+    let AniamtionObserver = new IntersectionObserver(callbackFunction,options);
     
+
+    onMounted(() => {
+        const cardContaiener:HTMLElement = cardCont.value;
+
+        
+        AniamtionObserver.observe(cardContaiener);
+    })
+
+    onBeforeUnmount(() => {
+        const cardContaiener:HTMLElement = cardCont.value;
+        cardContaiener.classList.remove('animate')
+    })
 
 </script>
 
@@ -162,6 +192,25 @@
         a {
             text-decoration: none;
             color: inherit;
+        }
+
+        &:not(.animate) {
+            opacity: 0;
+        }
+
+        &.animate {
+            @keyframes animateEntry{
+                from {
+                    opacity: 0;
+                    transform: translateX(-20%);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateX(0);
+                }
+            }
+
+            animation: animateEntry .5s ease-out forwards;
         }
 
         .image-wrapper {

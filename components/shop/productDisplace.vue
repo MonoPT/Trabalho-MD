@@ -1,7 +1,6 @@
 <template>
     <div class="container" ref="cardContainer" >
         <cards-shop-card v-for="(card, i) in results" :key="i" v-if="mainStore.productDataIsLoaded"
-    
             :name="card.name"
             :material="card.material"
             :cardH="cardHeight" 

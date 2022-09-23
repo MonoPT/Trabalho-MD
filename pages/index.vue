@@ -19,5 +19,15 @@
 </script>
 
 <style scoped lang="scss">
+    * {
+        opacity: 0;
 
+        @keyframes show {
+            to {
+                opacity: 1;
+            }
+        }
+
+        animation: show .7s ease-in forwards;
+    }
 </style>
