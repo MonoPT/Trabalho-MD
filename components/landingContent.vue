@@ -3,7 +3,7 @@
         <div class="text">
             <p>We don’t wish to break ties with the fashion industry but to make it better, more transparent, and circular. What matters is the intention, not perfection. Being sustainable is about making informed decisions, bearing in mind how they will impact others.</p>
             <div class="wrapper">
-                <FormButton class="callToAction"/>
+                <FormButton class="callToAction" @click="testGtag"/>
             </div>
         </div>
         <div class="graph">
@@ -13,7 +13,13 @@
 </template>
 
 <script setup lang="ts">
-
+    const testGtag = () => {
+        window.gtag.event('testDeEvento', {
+        'event_category': 'callToAction',
+        'event_label': 'clicked on call to action',
+        'value': 1
+      })
+    }
 </script>
 
 <style scoped lang="scss">
