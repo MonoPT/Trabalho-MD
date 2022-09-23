@@ -13,6 +13,7 @@
   "dependencies": {
     "@pinia/nuxt": "^0.3.1",
     "@types/pg": "^8.6.5",
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "vue-gtag-next": "^1.14.0"
   }
 }
