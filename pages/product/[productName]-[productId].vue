@@ -155,8 +155,20 @@
         setTimeout(function(){
             ratio.value = newObj.offsetWidth * 1.35;
         }, 200);
-        
     })
+
+    onMounted(() => {
+        window.addEventListener('resize', recalculateRatio)
+    })
+
+    onUnmounted(() => {
+        window.removeEventListener('resize', recalculateRatio)
+    })
+
+
+    const recalculateRatio = () => {
+        ratio.value = aspectRatioContainer.value.offsetWidth * 1.35;
+    }
 
     //Image slider
     const currentImage = ref(0);
