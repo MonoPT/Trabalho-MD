@@ -6,9 +6,11 @@
                     <img ref="firstImage" alt="">
                     <img ref="secondImage" alt="" class="hoverImg">
                 </template>
-                <div class="imageErrorContainer" v-else>
-                    Couldn't load image
-                </div>
+                <template v-else>
+                    <img ref="firstImage" alt="" src="@/assets/icons/no-picture01.svg">
+                    <img ref="secondImage" alt="" class="hoverImg" src="@/assets/icons/no-picture02.svg">
+                </template>
+        
             </div>
             <div class="promotion" v-if="promotionPercentage > 0">- {{promotionPercentage}}%</div>
             <div class="productInfo">
