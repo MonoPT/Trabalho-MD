@@ -7,7 +7,7 @@
                     <option v-for="(option, i) in optionList" :key="i" @click="ChangeToOption(i)">{{option}}</option>
                 </div>
 
-                <Teleport to="#popUpsModels">
+                <!--<Teleport to="#popUpsModels">
                     <div id="modal-Wrap" v-if="storeScreenHandler.isMobile">
                         <div class="modal">
                             <div class="scrollWrapper">
@@ -17,10 +17,27 @@
                             </div>
                         </div>
                     </div>
-                </Teleport>
+                </Teleport>-->
             </div>
             
         </transition>
+        
+        <Teleport to="#popUpsModels">
+            <transition name="showOptions">
+                    <div id="modal-container-options" v-if="!dropDownIsCollapsed && storeScreenHandler.isMobile">
+                        <div class="modal-container">
+                            <div class="options-container">
+                                <template v-for="(option, i) in optionList" :key="i">
+                                    <div class="option" @click="ChangeToOption(i)">{{option}}</div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+            </transition>
+        </Teleport>
+
+
+
         <div class="data-wrapper" v-show="false" ref="optionsRawData">
             <slot ></slot>
         </div>
@@ -215,65 +232,84 @@
 
 
     ///Defines styles for the pop Up
-    #modal-Wrap {
+   
+    #modal-container-options {
         position: fixed;
-        display: flex;
+        display: grid;
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.8);
+        background: rgba(0, 0, 0, 0.202);
         z-index: 999;
+        justify-content: center;
+        align-items: center;
         
-        .modal {
-            width: 90%;
-            margin-left: 5%;
-            margin: auto;
-            padding: 20px;
+        .modal-container {
+            position: relative;
+            display: block;
+            width: 80vw;
             
+            padding: 15px;
+            padding-inline: 5px;
+            background: var(--bgColor);
+            border-radius: .8em;
+            
+            -webkit-box-shadow: 5px 5px 8px 2px rgba(32,32,32,0.26); 
+            box-shadow: 5px 5px 8px 2px rgba(32,32,32,0.26);
+            z-index: 1000;
 
-            .scrollWrapper {
-                max-height: 85vh;
-                overflow-y: scroll;
-            }
+           
 
-            .options {
-                margin: auto;
-                display: block;
+            .options-container {
                 position: relative;
-                box-sizing: border-box;
-                padding: 15px 20px;
-                left: 0;
-                top: 1.8em;
-                min-width: 100%;
-                z-index: 5;
-                -webkit-box-shadow: 3px 3px 18px 2px rgba(0,0,0,0.35); 
-                box-shadow: 3px 3px 18px 2px rgba(0,0,0,0.35);
-                border-radius: 6px;
-                background-color: var(--bgColor);
-                transition: .12s;
+                display: block;
+                height: 100%;
+                width: 100%;
+                max-height: 80vh;
+                min-height: 20px;
+                overflow-y: scroll;
 
-                option {
-                    transition: inherit;
-                    padding: 15px 0;
-                    cursor: pointer;
-                    font-size: 1.2em;
-                    margin-top: 12px;
-                    border-bottom: 1px solid rgb(136, 136, 136);
+                &::-webkit-scrollbar
+                {
+                    width: 3px;
+                    background-color: transparent;
+                }
 
-                    &:nth-last-child(1) {
-                        border-bottom: none;
-                    }
+                &::-webkit-scrollbar-thumb
+                {
+                    border-radius: 10px;
+                    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+                    background-color: rgba(0, 0, 0, 0.196);
+                }
 
-                    &:not(:first-of-type) {
-                        margin-top: 0.4em;
+                .option {
+                    display: block;
+                    position: relative;
+                    font-size: 23px;
+
+                    padding-top: 8px;
+                    padding-bottom: 8px;
+
+                    border-top: 1px solid rgba(0, 0, 0, 0.123);
+
+                    &:nth-child(1) {
+                        margin-top: 0;
+                        border-top: none;
                     }
 
                     &:hover {
-                        color: var(--hoverColor);
+                        background: #35a2d153;
+                        cursor: pointer;
+                        border-color: transparent;
+                        border-radius: .2em;
+                        transition: .12s;
                     }
                 }
             }
         }
     }
+
+
+
 
     ///Options animation show
     .showOptions-enter-active,

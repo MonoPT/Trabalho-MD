@@ -101,7 +101,7 @@
             let downloadingImageOne = new Image();
             downloadingImageOne.onload = function(){
                 const evento:any = this;
-                firstImage.value.src = evento.src;   
+                if(!imgLoadError.value) firstImage.value.src = evento.src;   
                 imagesAreLoaded.value = true;
             };
 
@@ -113,7 +113,7 @@
             let downloadingImageTwo = new Image();
             downloadingImageTwo.onload = function(){
                 const evento:any = this;
-                secondImage.value.src = evento.src;  
+                if(!imgLoadError.value) secondImage.value.src = evento.src;  
             };
 
             downloadingImageOne.src = props.img;
@@ -136,8 +136,10 @@
     })
 
     const updateImageDisplayed = () => {
-        secondImage.value.src = ''; 
-        firstImage.value.src = ''; 
+        if(!imgLoadError.value) {
+            secondImage.value.src = '';
+            firstImage.value.src = ''; 
+        } 
         observer.unobserve(cardCont.value);
         if(document.contains(cardCont.value)) observer.observe(cardCont.value);
 

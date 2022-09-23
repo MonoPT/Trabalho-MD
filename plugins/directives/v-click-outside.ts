@@ -30,7 +30,7 @@ function handleClick(args, event) {
 
     let returnValue = false;
     
-    while (currentNode.nodeName != 'HTML') {
+    while (currentNode && currentNode.nodeName !== 'HTML' ) {
 
         if(currentNode === checkElement) {
             returnValue = true;
