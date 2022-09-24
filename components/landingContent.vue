@@ -14,11 +14,12 @@
 
 <script setup lang="ts">
     const testGtag = () => {
-        gtag('event','test', {
+        gtag('event','CallToAction', {
         'event_category': 'clicked_btn',
-        'event_label':'',
+        'event_label':'Clicked on the call to action button',
         'value': 1
         });
+        console.log("sended")
     }
 </script>
 
