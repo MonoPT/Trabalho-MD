@@ -3,21 +3,9 @@
         <div class="currentOption" @click="ToggleDropDown">{{currentOption}}</div>
         <transition name="showOptions">
             <div class="wrap" v-if="!dropDownIsCollapsed">
-                <div class="options" v-if="!storeScreenHandler.isMobile">
+                <div :class="`options ${alignPos}`" v-if="!storeScreenHandler.isMobile">
                     <option v-for="(option, i) in optionList" :key="i" @click="ChangeToOption(i)">{{option}}</option>
                 </div>
-
-                <!--<Teleport to="#popUpsModels">
-                    <div id="modal-Wrap" v-if="storeScreenHandler.isMobile">
-                        <div class="modal">
-                            <div class="scrollWrapper">
-                                <div class="options">
-                                    <option v-for="(option, i) in optionList" :key="i" @click="ChangeToOption(i)">{{option}}</option>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </Teleport>-->
             </div>
             
         </transition>
@@ -92,9 +80,35 @@
             //console.log({emitEventName: props.emitName, value: currentOption.value})
         }
     }
+    
+    const alignPos = ref('left')
+    const ToggleDropDown = () => {
+        const currentOption: any = event.target
 
-    const ToggleDropDown = () =>{
+
         dropDownIsCollapsed.value = !dropDownIsCollapsed.value;
+
+        if(storeScreenHandler.isMobile) return
+
+        setTimeout(() => {
+            try {
+                const dropBoxElement: HTMLElement = currentOption.parentNode.parentNode.children[1].children[1];
+                const dropBoxSize = dropBoxElement.getBoundingClientRect();
+
+                const dropBoxOptions = dropBoxElement.children[0].getBoundingClientRect()
+                
+                alignPos.value = 'left'
+                if(dropBoxSize.x + dropBoxOptions.width + 30 > storeScreenHandler.screenSize.w) {
+                    alignPos.value = 'right'
+                }
+            } catch {
+                return
+            }
+
+        }, 90);
+
+        
+        
     }
 
     const HandleClickOutside = (ClickedOutside) => {
@@ -197,6 +211,11 @@
             font-weight: lighter;
             max-height: 60vh;
             overflow-y: scroll;
+
+            &.right {
+                left: auto;
+                right: 0;
+            }
 
             &::-webkit-scrollbar {
                 width: 9px;

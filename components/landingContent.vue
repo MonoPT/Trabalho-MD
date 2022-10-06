@@ -1,7 +1,7 @@
 <template>
     <div class="landing-section">
         <div class="text">
-            <p>We don’t wish to break ties with the fashion industry but to make it better, more transparent, and circular. What matters is the intention, not perfection. Being sustainable is about making informed decisions, bearing in mind how they will impact others.</p>
+            <p>Being sustainable is about making informed decisions, bearing in mind how they will impact others.</p>
             <div class="wrapper">
                 <FormButton class="callToAction" @click="testGtag"/>
             </div>
@@ -120,7 +120,7 @@
 
             
             p {
-                font-size: 2.1em;
+                font-size: 2.8em;
                 font-weight: 200;
                 line-height: 175%;
 
