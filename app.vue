@@ -24,6 +24,7 @@
     const storeScreenHandler = useScreenHandler()
     const mainStore = useMainStore()
 
+
 </script>
 
 <style lang="scss">

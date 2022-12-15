@@ -9,6 +9,7 @@
     useHead({
         title: 'Wetheknot | Shop',
         meta: [
+            {name: "title", content: 'Wetheknot | Shop'},
             {name: "keywords", content: "cloth, fashion, wetheknot, durability, environment, friendly, unisex, reuse, recycle, simplicity, portuguese clothing, portugal, roupa portuguesa, roupa, unisexo, simplicidade, casacos, jackets, jeans, calças, soap"},
             {name: "description", content: "We from wetheknot are compromised with finding the perfect balance beetween environment and clothing manufactorying, keeping sustainability in mind for every product we design."},
             {name: "author", content: "Rodrigo Fernandes"}
