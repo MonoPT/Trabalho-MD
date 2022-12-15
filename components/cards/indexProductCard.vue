@@ -1,7 +1,7 @@
 <template>
     <nuxt-link :to="link">
         <div class="card">
-            <img :src="img" alt="" :style="`--transformX: ${transform.x}; --transformY: ${transform.y}; --zoom: ${zoom}`">
+            <img :src="img" :alt="`${category}`" :style="`--transformX: ${transform.x}; --transformY: ${transform.y}; --zoom: ${zoom}`">
             <formLink :text="category" :linkTo="link" class="linkToCat" :hasArrow="hasArrow"/>
         </div>
     </nuxt-link>

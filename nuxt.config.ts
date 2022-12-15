@@ -8,6 +8,5 @@ export default defineNuxtConfig({
     ],
     plugins: [
         '~/plugins/directives/v-click-outside',
-    ],
-    
+    ]    
 })

@@ -273,6 +273,7 @@
 
             &:hover {
                 color: var(--primaryColor);
+                
 
                 img {
                     filter: var(--primaryColorImgFilter);
@@ -287,7 +288,7 @@
 
                 .dropDown-options {
                     transition: .2s;
-                    transform: scaleY(100%);
+                    transform: scaleY(100%) translateY(-5px);
                     
                 }
             }
